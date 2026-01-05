@@ -39,3 +39,6 @@ Install the required libraries:
 
 ```bash
 pip install numpy shapely matplotlib
+python main.py
+
+
